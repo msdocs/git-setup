@@ -13,6 +13,7 @@ import git
 # TODO: Create an Abstract Class and Methods to build clients / Query Repos / Clone
 # TODO: Have a Bitbucket Subclasses
 # TODO: Have a Github Subclasses
+# TODO: Test Co-Authors
 
 
 
